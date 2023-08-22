@@ -1,12 +1,11 @@
 Text Analysis project:
-->I have attached .py and excel output files.
 
-->In completing the given task I used BeautifulSoup for web scrapping purpose. 
+In this project I have performed Sentiment analysis on articles posted by Blackcoffer. Using a list of URLs of Webpages,I extracted the content through Beautiful Soup and analyzed it using Python libraries like NLTK.
 
-->Other libraries I used for performing the given task include – openpyxl , pandas , nltk, etc.
+Final output consists of several variables for each URL like posivtive score, negative score, Polarity score , subjectivity score , etc.
 
-->The output file however doesn’t contains value for few of the URLs, that is because of problem in scraping, I tried changing class names and customizing code for specific classes in url, but the code was still not able to scrap specifically from those URLs, so I left ‘em as it is.
+->The output file however doesn’t contains value for few of the URLs, that is because of the problem in scraping, I tried changing class names and customizing code for specific classes in url, but the code was still not able to scrap specifically from those URLs, so I left ‘em as it is.
 
-->The output contains all the variables as mentioned in Output Data Structure.
+->The output contains various variables as can be seen in Output Data Structure.
 
-->I utilized Jupyter Notebook to perform the given task, and downloaded the file in.py format.
+->I utilized Jupyter Notebook in this project, and have uploaded it with the name Text Analysis.
