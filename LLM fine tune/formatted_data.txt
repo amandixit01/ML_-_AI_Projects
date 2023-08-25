@@ -1,0 +1,350 @@
+Potato Inc. is a Americas company that generated 183000000000.0 in 2015 Q1.
+Potato Inc. is a Americas company that generated 171000000000.0 in 2015 Q2.
+Potato Inc. is a Americas company that generated 80840000000.0 in 2015 Q3.
+Potato Inc. is a Americas company that generated 65310000000.0 in 2015 Q4.
+Potato Inc. is a Americas company that generated 235000000000.0 in 2016 Q1.
+Potato Inc. is a Americas company that generated 153000000000.0 in 2016 Q2.
+Potato Inc. is a Americas company that generated 35920000000.0 in 2016 Q3.
+Potato Inc. is a Americas company that generated 121000000000.0 in 2016 Q4.
+Potato Inc. is a Americas company that generated 128000000000.0 in 2017 Q1.
+Potato Inc. is a Americas company that generated 190000000000.0 in 2017 Q2.
+Potato Inc. is a Americas company that generated 143000000000.0 in 2017 Q3.
+Potato Inc. is a Americas company that generated 92400000000.0 in 2017 Q4.
+Potato Inc. is a Americas company that generated 141000000000.0 in 2018 Q1.
+Potato Inc. is a Americas company that generated 224000000000.0 in 2018 Q2.
+Potato Inc. is a Americas company that generated 123000000000.0 in 2018 Q3.
+Potato Inc. is a Americas company that generated 138000000000.0 in 2018 Q4.
+Potato Inc. is a Americas company that generated 296000000000.0 in 2019 Q1.
+Potato Inc. is a Americas company that generated 220000000000.0 in 2019 Q2.
+Potato Inc. is a Americas company that generated 125000000000.0 in 2019 Q3.
+Potato Inc. is a Americas company that generated 176000000000.0 in 2019 Q4.
+Potato Inc. is a Americas company that generated 290000000000.0 in 2020 Q1.
+Potato Inc. is a Americas company that generated 127000000000.0 in 2020 Q2.
+Potato Inc. is a Americas company that generated 108000000000.0 in 2020 Q3.
+Potato Inc. is a Americas company that generated 246000000000.0 in 2020 Q4.
+Potato Inc. is a Americas company that generated 139000000000.0 in 2021 Q1.
+Potato Inc. is a Americas company that generated 103000000000.0 in 2021 Q2.
+Potato Inc. is a Americas company that generated 251000000000.0 in 2021 Q3.
+Potato Inc. is a Americas company that generated 331000000000.0 in 2021 Q4.
+Potato Inc. is a Americas company that generated 360000000000.0 in 2022 Q1.
+Potato Inc. is a Americas company that generated 204000000000.0 in 2022 Q2.
+Potato Inc. is a Americas company that generated 337000000000.0 in 2022 Q3.
+Potato Inc. is a Americas company that generated 279000000000.0 in 2022 Q4.
+Potato Inc. is a Americas company that generated 197000000000.0 in 2023 Q1.
+Potato Inc. is a Americas company that generated 189000000000.0 in 2023 Q2.
+Potato Inc. is a Americas company that generated 177000000000.0 in 2023 Q3.
+Potato Inc. is a Europe company that generated 86050000000.0 in 2015 Q1.
+Potato Inc. is a Europe company that generated 85400000000.0 in 2015 Q2.
+Potato Inc. is a Europe company that generated 62040000000.0 in 2015 Q3.
+Potato Inc. is a Europe company that generated 84640000000.0 in 2015 Q4.
+Potato Inc. is a Europe company that generated 89650000000.0 in 2016 Q1.
+Potato Inc. is a Europe company that generated 80780000000.0 in 2016 Q2.
+Potato Inc. is a Europe company that generated 28920000000.0 in 2016 Q3.
+Potato Inc. is a Europe company that generated 54200000000.0 in 2016 Q4.
+Potato Inc. is a Europe company that generated 37040000000.0 in 2017 Q1.
+Potato Inc. is a Europe company that generated 50920000000.0 in 2017 Q2.
+Potato Inc. is a Europe company that generated 53400000000.0 in 2017 Q3.
+Potato Inc. is a Europe company that generated 39030000000.0 in 2017 Q4.
+Potato Inc. is a Europe company that generated 168000000000.0 in 2018 Q1.
+Potato Inc. is a Europe company that generated 111000000000.0 in 2018 Q2.
+Potato Inc. is a Europe company that generated 97104000000.0 in 2018 Q3.
+Potato Inc. is a Europe company that generated 76910000000.0 in 2018 Q4.
+Potato Inc. is a Europe company that generated 81452000000.0 in 2019 Q1.
+Potato Inc. is a Europe company that generated 52216000000.0 in 2019 Q2.
+Potato Inc. is a Europe company that generated 59625000000.0 in 2019 Q3.
+Potato Inc. is a Europe company that generated 120000000000.0 in 2019 Q4.
+Potato Inc. is a Europe company that generated 46546000000.0 in 2020 Q1.
+Potato Inc. is a Europe company that generated 114000000000.0 in 2020 Q2.
+Potato Inc. is a Europe company that generated 28346000000.0 in 2020 Q3.
+Potato Inc. is a Europe company that generated 101000000000.0 in 2020 Q4.
+Potato Inc. is a Europe company that generated 218000000000.0 in 2021 Q1.
+Potato Inc. is a Europe company that generated 111000000000.0 in 2021 Q2.
+Potato Inc. is a Europe company that generated 114000000000.0 in 2021 Q3.
+Potato Inc. is a Europe company that generated 83176000000.0 in 2021 Q4.
+Potato Inc. is a Europe company that generated 208000000000.0 in 2022 Q1.
+Potato Inc. is a Europe company that generated 116000000000.0 in 2022 Q2.
+Potato Inc. is a Europe company that generated 174000000000.0 in 2022 Q3.
+Potato Inc. is a Europe company that generated 182000000000.0 in 2022 Q4.
+Potato Inc. is a Europe company that generated 194000000000.0 in 2023 Q1.
+Potato Inc. is a Europe company that generated 95780000000.0 in 2023 Q2.
+Potato Inc. is a Europe company that generated 162000000000.0 in 2023 Q3.
+Potato Inc. is a Greater China company that generated 48420000000.0 in 2015 Q1.
+Potato Inc. is a Greater China company that generated 101000000000.0 in 2015 Q2.
+Potato Inc. is a Greater China company that generated 106000000000.0 in 2015 Q3.
+Potato Inc. is a Greater China company that generated 100000000000.0 in 2015 Q4.
+Potato Inc. is a Greater China company that generated 91850000000.0 in 2016 Q1.
+Potato Inc. is a Greater China company that generated 112000000000.0 in 2016 Q2.
+Potato Inc. is a Greater China company that generated 26550000000.0 in 2016 Q3.
+Potato Inc. is a Greater China company that generated 52740000000.0 in 2016 Q4.
+Potato Inc. is a Greater China company that generated 64920000000.0 in 2017 Q1.
+Potato Inc. is a Greater China company that generated 32190000000.0 in 2017 Q2.
+Potato Inc. is a Greater China company that generated 24000000000.0 in 2017 Q3.
+Potato Inc. is a Greater China company that generated 58800000000.0 in 2017 Q4.
+Potato Inc. is a Greater China company that generated 35920000000.0 in 2018 Q1.
+Potato Inc. is a Greater China company that generated 91140000000.0 in 2018 Q2.
+Potato Inc. is a Greater China company that generated 85959000000.0 in 2018 Q3.
+Potato Inc. is a Greater China company that generated 79877000000.0 in 2018 Q4.
+Potato Inc. is a Greater China company that generated 92127000000.0 in 2019 Q1.
+Potato Inc. is a Greater China company that generated 51090000000.0 in 2019 Q2.
+Potato Inc. is a Greater China company that generated 82413000000.0 in 2019 Q3.
+Potato Inc. is a Greater China company that generated 77938000000.0 in 2019 Q4.
+Potato Inc. is a Greater China company that generated 95046000000.0 in 2020 Q1.
+Potato Inc. is a Greater China company that generated 28365000000.0 in 2020 Q2.
+Potato Inc. is a Greater China company that generated 27987000000.0 in 2020 Q3.
+Potato Inc. is a Greater China company that generated 31784000000.0 in 2020 Q4.
+Potato Inc. is a Greater China company that generated 171000000000.0 in 2021 Q1.
+Potato Inc. is a Greater China company that generated 142000000000.0 in 2021 Q2.
+Potato Inc. is a Greater China company that generated 29524000000.0 in 2021 Q3.
+Potato Inc. is a Greater China company that generated 72815000000.0 in 2021 Q4.
+Potato Inc. is a Greater China company that generated 129000000000.0 in 2022 Q1.
+Potato Inc. is a Greater China company that generated 91715000000.0 in 2022 Q2.
+Potato Inc. is a Greater China company that generated 43812000000.0 in 2022 Q3.
+Potato Inc. is a Greater China company that generated 92820000000.0 in 2022 Q4.
+Potato Inc. is a Greater China company that generated 191000000000.0 in 2023 Q1.
+Potato Inc. is a Greater China company that generated 53436000000.0 in 2023 Q2.
+Potato Inc. is a Greater China company that generated 110000000000.0 in 2023 Q3.
+Potato Inc. is a Japan company that generated 27250000000.0 in 2015 Q1.
+Potato Inc. is a Japan company that generated 10380000000.0 in 2015 Q2.
+Potato Inc. is a Japan company that generated 20090000000.0 in 2015 Q3.
+Potato Inc. is a Japan company that generated 23580000000.0 in 2015 Q4.
+Potato Inc. is a Japan company that generated 28740000000.0 in 2016 Q1.
+Potato Inc. is a Japan company that generated 8560000000.0 in 2016 Q2.
+Potato Inc. is a Japan company that generated 28240000000.0 in 2016 Q3.
+Potato Inc. is a Japan company that generated 34560000000.0 in 2016 Q4.
+Potato Inc. is a Japan company that generated 23080000000.0 in 2017 Q1.
+Potato Inc. is a Japan company that generated 13470000000.0 in 2017 Q2.
+Potato Inc. is a Japan company that generated 28960000000.0 in 2017 Q3.
+Potato Inc. is a Japan company that generated 15440000000.0 in 2017 Q4.
+Potato Inc. is a Japan company that generated 36200000000.0 in 2018 Q1.
+Potato Inc. is a Japan company that generated 38290000000.0 in 2018 Q2.
+Potato Inc. is a Japan company that generated 27069000000.0 in 2018 Q3.
+Potato Inc. is a Japan company that generated 20644000000.0 in 2018 Q4.
+Potato Inc. is a Japan company that generated 41460000000.0 in 2019 Q1.
+Potato Inc. is a Japan company that generated 33192000000.0 in 2019 Q2.
+Potato Inc. is a Japan company that generated 32656000000.0 in 2019 Q3.
+Potato Inc. is a Japan company that generated 24910000000.0 in 2019 Q4.
+Potato Inc. is a Japan company that generated 31115000000.0 in 2020 Q1.
+Potato Inc. is a Japan company that generated 31236000000.0 in 2020 Q2.
+Potato Inc. is a Japan company that generated 44694000000.0 in 2020 Q3.
+Potato Inc. is a Japan company that generated 45207000000.0 in 2020 Q4.
+Potato Inc. is a Japan company that generated 49710000000.0 in 2021 Q1.
+Potato Inc. is a Japan company that generated 69678000000.0 in 2021 Q2.
+Potato Inc. is a Japan company that generated 19392000000.0 in 2021 Q3.
+Potato Inc. is a Japan company that generated 35946000000.0 in 2021 Q4.
+Potato Inc. is a Japan company that generated 49749000000.0 in 2022 Q1.
+Potato Inc. is a Japan company that generated 15448000000.0 in 2022 Q2.
+Potato Inc. is a Japan company that generated 43568000000.0 in 2022 Q3.
+Potato Inc. is a Japan company that generated 45600000000.0 in 2022 Q4.
+Potato Inc. is a Japan company that generated 20265000000.0 in 2023 Q1.
+Potato Inc. is a Japan company that generated 43056000000.0 in 2023 Q2.
+Potato Inc. is a Japan company that generated 33747000000.0 in 2023 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 41840000000.0 in 2015 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 29470000000.0 in 2015 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 23600000000.0 in 2015 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 13500000000.0 in 2015 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 27250000000.0 in 2016 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 12640000000.0 in 2016 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 14280000000.0 in 2016 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 21360000000.0 in 2016 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 46880000000.0 in 2017 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 15200000000.0 in 2017 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 8190000000.0 in 2017 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 16860000000.0 in 2017 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 20550000000.0 in 2018 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 11880000000.0 in 2018 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 25336000000.0 in 2018 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 20574000000.0 in 2018 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 20784000000.0 in 2019 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 10845000000.0 in 2019 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 17945000000.0 in 2019 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 21936000000.0 in 2019 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 36890000000.0 in 2020 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 15540000000.0 in 2020 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 37791000000.0 in 2020 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 20655000000.0 in 2020 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 24675000000.0 in 2021 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 45264000000.0 in 2021 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 43160000000.0 in 2021 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 25960000000.0 in 2021 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 39240000000.0 in 2022 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 28168000000.0 in 2022 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 24600000000.0 in 2022 Q3.
+Potato Inc. is a Rest of Asia Pacific company that generated 50984000000.0 in 2022 Q4.
+Potato Inc. is a Rest of Asia Pacific company that generated 38140000000.0 in 2023 Q1.
+Potato Inc. is a Rest of Asia Pacific company that generated 48714000000.0 in 2023 Q2.
+Potato Inc. is a Rest of Asia Pacific company that generated 22520000000.0 in 2023 Q3.
+Potato Inc. is a Smartphones company that generated 205000000000.0 in 2015 Q1.
+Potato Inc. is a Smartphones company that generated 322000000000.0 in 2015 Q2.
+Potato Inc. is a Smartphones company that generated 94101120000.0 in 2015 Q3.
+Potato Inc. is a Smartphones company that generated 258000000000.0 in 2015 Q4.
+Potato Inc. is a Smartphones company that generated 155000000000.0 in 2016 Q1.
+Potato Inc. is a Smartphones company that generated 296000000000.0 in 2016 Q2.
+Potato Inc. is a Smartphones company that generated 192000000000.0 in 2016 Q3.
+Potato Inc. is a Smartphones company that generated 141000000000.0 in 2016 Q4.
+Potato Inc. is a Smartphones company that generated 163000000000.0 in 2017 Q1.
+Potato Inc. is a Smartphones company that generated 99841170000.0 in 2017 Q2.
+Potato Inc. is a Smartphones company that generated 174000000000.0 in 2017 Q3.
+Potato Inc. is a Smartphones company that generated 144000000000.0 in 2017 Q4.
+Potato Inc. is a Smartphones company that generated 308000000000.0 in 2018 Q1.
+Potato Inc. is a Smartphones company that generated 0.0 in 2018 Q2.
+Potato Inc. is a Smartphones company that generated 120000000000.0 in 2018 Q3.
+Potato Inc. is a Smartphones company that generated 297000000000.0 in 2018 Q4.
+Potato Inc. is a Smartphones company that generated 312000000000.0 in 2019 Q1.
+Potato Inc. is a Smartphones company that generated 248000000000.0 in 2019 Q2.
+Potato Inc. is a Smartphones company that generated 104000000000.0 in 2019 Q3.
+Potato Inc. is a Smartphones company that generated 167000000000.0 in 2019 Q4.
+Potato Inc. is a Smartphones company that generated 224000000000.0 in 2020 Q1.
+Potato Inc. is a Smartphones company that generated 86886000000.0 in 2020 Q2.
+Potato Inc. is a Smartphones company that generated 79254000000.0 in 2020 Q3.
+Potato Inc. is a Smartphones company that generated 132000000000.0 in 2020 Q4.
+Potato Inc. is a Smartphones company that generated 459000000000.0 in 2021 Q1.
+Potato Inc. is a Smartphones company that generated 240000000000.0 in 2021 Q2.
+Potato Inc. is a Smartphones company that generated 79140000000.0 in 2021 Q3.
+Potato Inc. is a Smartphones company that generated 117000000000.0 in 2021 Q4.
+Potato Inc. is a Smartphones company that generated 573000000000.0 in 2022 Q1.
+Potato Inc. is a Smartphones company that generated 253000000000.0 in 2022 Q2.
+Potato Inc. is a Smartphones company that generated 203000000000.0 in 2022 Q3.
+Potato Inc. is a Smartphones company that generated 128000000000.0 in 2022 Q4.
+Potato Inc. is a Smartphones company that generated 460000000000.0 in 2023 Q1.
+Potato Inc. is a Smartphones company that generated 205000000000.0 in 2023 Q2.
+Potato Inc. is a Smartphones company that generated 159000000000.0 in 2023 Q3.
+Potato Inc. is a Tablets company that generated 44797300000.0 in 2015 Q1.
+Potato Inc. is a Tablets company that generated 10859472000.0 in 2015 Q2.
+Potato Inc. is a Tablets company that generated 40845600000.0 in 2015 Q3.
+Potato Inc. is a Tablets company that generated 17098000000.0 in 2015 Q4.
+Potato Inc. is a Tablets company that generated 35431290000.0 in 2016 Q1.
+Potato Inc. is a Tablets company that generated 30903327000.0 in 2016 Q2.
+Potato Inc. is a Tablets company that generated 29253816000.0 in 2016 Q3.
+Potato Inc. is a Tablets company that generated 12761940000.0 in 2016 Q4.
+Potato Inc. is a Tablets company that generated 11063020000.0 in 2017 Q1.
+Potato Inc. is a Tablets company that generated 11666655000.0 in 2017 Q2.
+Potato Inc. is a Tablets company that generated 0.0 in 2017 Q3.
+Potato Inc. is a Tablets company that generated 14400000000.0 in 2017 Q4.
+Potato Inc. is a Tablets company that generated 23600000000.0 in 2018 Q1.
+Potato Inc. is a Tablets company that generated 24600000000.0 in 2018 Q2.
+Potato Inc. is a Tablets company that generated 28446000000.0 in 2018 Q3.
+Potato Inc. is a Tablets company that generated 16356000000.0 in 2018 Q4.
+Potato Inc. is a Tablets company that generated 47103000000.0 in 2019 Q1.
+Potato Inc. is a Tablets company that generated 29232000000.0 in 2019 Q2.
+Potato Inc. is a Tablets company that generated 23280000000.0 in 2019 Q3.
+Potato Inc. is a Tablets company that generated 27936000000.0 in 2019 Q4.
+Potato Inc. is a Tablets company that generated 29885000000.0 in 2020 Q1.
+Potato Inc. is a Tablets company that generated 26208000000.0 in 2020 Q2.
+Potato Inc. is a Tablets company that generated 39492000000.0 in 2020 Q3.
+Potato Inc. is a Tablets company that generated 58475000000.0 in 2020 Q4.
+Potato Inc. is a Tablets company that generated 67480000000.0 in 2021 Q1.
+Potato Inc. is a Tablets company that generated 31228000000.0 in 2021 Q2.
+Potato Inc. is a Tablets company that generated 44208000000.0 in 2021 Q3.
+Potato Inc. is a Tablets company that generated 33008000000.0 in 2021 Q4.
+Potato Inc. is a Tablets company that generated 57984000000.0 in 2022 Q1.
+Potato Inc. is a Tablets company that generated 68814000000.0 in 2022 Q2.
+Potato Inc. is a Tablets company that generated 21672000000.0 in 2022 Q3.
+Potato Inc. is a Tablets company that generated 35870000000.0 in 2022 Q4.
+Potato Inc. is a Tablets company that generated 59616000000.0 in 2023 Q1.
+Potato Inc. is a Tablets company that generated 50176000000.0 in 2023 Q2.
+Potato Inc. is a Tablets company that generated 46328000000.0 in 2023 Q3.
+Potato Inc. is a Computers company that generated 20835780000.0 in 2015 Q1.
+Potato Inc. is a Computers company that generated 28076840000.0 in 2015 Q2.
+Potato Inc. is a Computers company that generated 36188160000.0 in 2015 Q3.
+Potato Inc. is a Computers company that generated 34402000000.0 in 2015 Q4.
+Potato Inc. is a Computers company that generated 20234529000.0 in 2016 Q1.
+Potato Inc. is a Computers company that generated 15322710000.0 in 2016 Q2.
+Potato Inc. is a Computers company that generated 36679524000.0 in 2016 Q3.
+Potato Inc. is a Computers company that generated 28695625000.0 in 2016 Q4.
+Potato Inc. is a Computers company that generated 57979000000.0 in 2017 Q1.
+Potato Inc. is a Computers company that generated 52618995000.0 in 2017 Q2.
+Potato Inc. is a Computers company that generated 39161584000.0 in 2017 Q3.
+Potato Inc. is a Computers company that generated 50400000000.0 in 2017 Q4.
+Potato Inc. is a Computers company that generated 34500000000.0 in 2018 Q1.
+Potato Inc. is a Computers company that generated 35400000000.0 in 2018 Q2.
+Potato Inc. is a Computers company that generated 21320000000.0 in 2018 Q3.
+Potato Inc. is a Computers company that generated 51877000000.0 in 2018 Q4.
+Potato Inc. is a Computers company that generated 29664000000.0 in 2019 Q1.
+Potato Inc. is a Computers company that generated 44104000000.0 in 2019 Q2.
+Potato Inc. is a Computers company that generated 25115000000.0 in 2019 Q3.
+Potato Inc. is a Computers company that generated 48937000000.0 in 2019 Q4.
+Potato Inc. is a Computers company that generated 50120000000.0 in 2020 Q1.
+Potato Inc. is a Computers company that generated 26755000000.0 in 2020 Q2.
+Potato Inc. is a Computers company that generated 49553000000.0 in 2020 Q3.
+Potato Inc. is a Computers company that generated 20670000000.0 in 2020 Q4.
+Potato Inc. is a Computers company that generated 60725000000.0 in 2021 Q1.
+Potato Inc. is a Computers company that generated 27306000000.0 in 2021 Q2.
+Potato Inc. is a Computers company that generated 49410000000.0 in 2021 Q3.
+Potato Inc. is a Computers company that generated 36712000000.0 in 2021 Q4.
+Potato Inc. is a Computers company that generated 54260000000.0 in 2022 Q1.
+Potato Inc. is a Computers company that generated 52175000000.0 in 2022 Q2.
+Potato Inc. is a Computers company that generated 59056000000.0 in 2022 Q3.
+Potato Inc. is a Computers company that generated 23016000000.0 in 2022 Q4.
+Potato Inc. is a Computers company that generated 61880000000.0 in 2023 Q1.
+Potato Inc. is a Computers company that generated 46690000000.0 in 2023 Q2.
+Potato Inc. is a Computers company that generated 34200000000.0 in 2023 Q3.
+Potato Inc. is a Services company that generated 43171020000.0 in 2015 Q1.
+Potato Inc. is a Services company that generated 19978644000.0 in 2015 Q2.
+Potato Inc. is a Services company that generated 10058880000.0 in 2015 Q3.
+Potato Inc. is a Services company that generated 40705600000.0 in 2015 Q4.
+Potato Inc. is a Services company that generated 18163278000.0 in 2016 Q1.
+Potato Inc. is a Services company that generated 29962725000.0 in 2016 Q2.
+Potato Inc. is a Services company that generated 17930988000.0 in 2016 Q3.
+Potato Inc. is a Services company that generated 37948500000.0 in 2016 Q4.
+Potato Inc. is a Services company that generated 50183175000.0 in 2017 Q1.
+Potato Inc. is a Services company that generated 42253926000.0 in 2017 Q2.
+Potato Inc. is a Services company that generated 58124800000.0 in 2017 Q3.
+Potato Inc. is a Services company that generated 42500000000.0 in 2017 Q4.
+Potato Inc. is a Services company that generated 42500000000.0 in 2018 Q1.
+Potato Inc. is a Services company that generated 73600000000.0 in 2018 Q2.
+Potato Inc. is a Services company that generated 76384000000.0 in 2018 Q3.
+Potato Inc. is a Services company that generated 59886000000.0 in 2018 Q4.
+Potato Inc. is a Services company that generated 65250000000.0 in 2019 Q1.
+Potato Inc. is a Services company that generated 68700000000.0 in 2019 Q2.
+Potato Inc. is a Services company that generated 57300000000.0 in 2019 Q3.
+Potato Inc. is a Services company that generated 75066000000.0 in 2019 Q4.
+Potato Inc. is a Services company that generated 50860000000.0 in 2020 Q1.
+Potato Inc. is a Services company that generated 26696000000.0 in 2020 Q2.
+Potato Inc. is a Services company that generated 118000000000.0 in 2020 Q3.
+Potato Inc. is a Services company that generated 29098000000.0 in 2020 Q4.
+Potato Inc. is a Services company that generated 110000000000.0 in 2021 Q1.
+Potato Inc. is a Services company that generated 67604000000.0 in 2021 Q2.
+Potato Inc. is a Services company that generated 87430000000.0 in 2021 Q3.
+Potato Inc. is a Services company that generated 91385000000.0 in 2021 Q4.
+Potato Inc. is a Services company that generated 137000000000.0 in 2022 Q1.
+Potato Inc. is a Services company that generated 79284000000.0 in 2022 Q2.
+Potato Inc. is a Services company that generated 137000000000.0 in 2022 Q3.
+Potato Inc. is a Services company that generated 173000000000.0 in 2022 Q4.
+Potato Inc. is a Services company that generated 125000000000.0 in 2023 Q1.
+Potato Inc. is a Services company that generated 167000000000.0 in 2023 Q2.
+Potato Inc. is a Services company that generated 63639000000.0 in 2023 Q3.
+Potato Inc. is a Other company that generated 13428000000.0 in 2015 Q1.
+Potato Inc. is a Other company that generated 13504728000.0 in 2015 Q2.
+Potato Inc. is a Other company that generated 10554880000.0 in 2015 Q3.
+Potato Inc. is a Other company that generated 24390400000.0 in 2015 Q4.
+Potato Inc. is a Other company that generated 17389404000.0 in 2016 Q1.
+Potato Inc. is a Other company that generated 13138086000.0 in 2016 Q2.
+Potato Inc. is a Other company that generated 15537648000.0 in 2016 Q3.
+Potato Inc. is a Other company that generated 14223660000.0 in 2016 Q4.
+Potato Inc. is a Other company that generated 24163140000.0 in 2017 Q1.
+Potato Inc. is a Other company that generated 11492052000.0 in 2017 Q2.
+Potato Inc. is a Other company that generated 16200000000.0 in 2017 Q3.
+Potato Inc. is a Other company that generated 25600000000.0 in 2017 Q4.
+Potato Inc. is a Other company that generated 33000000000.0 in 2018 Q1.
+Potato Inc. is a Other company that generated 24000000000.0 in 2018 Q2.
+Potato Inc. is a Other company that generated 26180000000.0 in 2018 Q3.
+Potato Inc. is a Other company that generated 16936000000.0 in 2018 Q4.
+Potato Inc. is a Other company that generated 21924000000.0 in 2019 Q1.
+Potato Inc. is a Other company that generated 20516000000.0 in 2019 Q2.
+Potato Inc. is a Other company that generated 11050000000.0 in 2019 Q3.
+Potato Inc. is a Other company that generated 13040000000.0 in 2019 Q4.
+Potato Inc. is a Other company that generated 50050000000.0 in 2020 Q1.
+Potato Inc. is a Other company that generated 31420000000.0 in 2020 Q2.
+Potato Inc. is a Other company that generated 12900000000.0 in 2020 Q3.
+Potato Inc. is a Other company that generated 63008000000.0 in 2020 Q4.
+Potato Inc. is a Other company that generated 104000000000.0 in 2021 Q1.
+Potato Inc. is a Other company that generated 47016000000.0 in 2021 Q2.
+Potato Inc. is a Other company that generated 26325000000.0 in 2021 Q3.
+Potato Inc. is a Other company that generated 26355000000.0 in 2021 Q4.
+Potato Inc. is a Other company that generated 58804000000.0 in 2022 Q1.
+Potato Inc. is a Other company that generated 79254000000.0 in 2022 Q2.
+Potato Inc. is a Other company that generated 32336000000.0 in 2022 Q3.
+Potato Inc. is a Other company that generated 48250000000.0 in 2022 Q4.
+Potato Inc. is a Other company that generated 80892000000.0 in 2023 Q1.
+Potato Inc. is a Other company that generated 35028000000.0 in 2023 Q2.
+Potato Inc. is a Other company that generated 24852000000.0 in 2023 Q3.
