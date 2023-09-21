@@ -1,6 +1,7 @@
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+import matplotlib.pyplot as plt
 
 # Load the data
 df = pd.read_csv('fast_food_data.csv')
@@ -21,12 +22,24 @@ features = ['Age', 'Income', 'Frequency_of_visits', 'Average_spend_per_visit']
 scaler = StandardScaler()
 scaled_features = scaler.fit_transform(df[features])
 
-# Perform KMeans clustering
-kmeans = KMeans(n_clusters=3, random_state=42)
-kmeans.fit(scaled_features)
+# Determine the optimal number of clusters using the elbow method
+wcss = []
+for i in range(1, 11):
+    kmeans = KMeans(n_clusters=i, init='k-means++', max_iter=300, n_init=10, random_state=0)
+    kmeans.fit(scaled_features)
+    wcss.append(kmeans.inertia_)
+plt.plot(range(1, 11), wcss)
+plt.title('Elbow Method')
+plt.xlabel('Number of clusters')
+plt.ylabel('WCSS')
+plt.show()
+
+# Perform KMeans clustering, here we're assuming the optimal number of clusters is 3
+kmeans = KMeans(n_clusters=3, init='k-means++', max_iter=300, n_init=10, random_state=0)
+cluster_labels = kmeans.fit_predict(scaled_features)
 
 # Add the cluster labels to the original data
-df['Segment'] = kmeans.labels_
+df['Segment'] = cluster_labels
 
 # Profile the segments
 profile = df.groupby('Segment').mean()
